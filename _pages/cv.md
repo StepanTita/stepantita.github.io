@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Stepan Tytarenko - CV.pdf](http://stytarenko.github.io/files/CV.pdf)
+[Stepan Tytarenko - CV.pdf](http://stepantita.github.io/files/CV.pdf)
 
 ### Education
 
