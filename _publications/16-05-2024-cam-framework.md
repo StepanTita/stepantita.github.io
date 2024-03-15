@@ -10,6 +10,6 @@ citation: 'TBD'
 ---
 We propose a novel method of context attribution for the transformer model that proves to be more efficient and generalizable. We show that in an example of a fake news detection task, utilizing three distinct datasets and outperforming the baseline model in both the same dataset and cross-dataset zero-shot test.
 
-[Download paper here](http://stepantita.github.io/files/SpaceModel.pdf)
+[Download paper here](http://stepantita.github.io/files/CAM_Framework.pdf)
 
 Recommended citation: TBD
